@@ -1,1 +1,1 @@
-# my-qiankun-template
+# pnpm + monorepo + qiankun + vue3
